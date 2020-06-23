@@ -1,7 +1,7 @@
 ---
 title: "Course Project 1 - Reproducible Research"
-author: "Shengyu Chen"
-date: "March 20, 2016"
+author: "Prit Thakkar"
+date: "June 23, 2020"
 output: html_document
 ---
 
